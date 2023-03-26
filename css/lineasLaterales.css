@@ -1,0 +1,17 @@
+canvas {
+  border: 3px solid white;
+}
+
+.container-canvas {
+  position: relative;
+  max-width: 307px;
+}
+
+.door {
+  position: absolute;
+  bottom: 4px;
+  right: 0px;
+  width: 5px;
+  height: 50px;
+  background-color: purple;
+}
